@@ -85,7 +85,8 @@
             android:layout_height="wrap_content"
             android:text="Gizonezkoa"
             android:textColor="@color/dark_blue"
-            android:textSize="18sp" />
+            android:textSize="18sp"
+            android:checked="true" />
 
         <RadioButton
             android:id="@+id/genderFemale"
